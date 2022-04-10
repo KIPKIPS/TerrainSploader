@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4271711918
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main_lightmap.ab
+      Dependencies: {}
